@@ -1,5 +1,5 @@
 import React from 'react';
-import ReactDOM from 'react-dom/client';
+import ReactDom from 'react-dom/client';
 import './index.css';
 import App from './App';
 import NavBar from "./nav/nav.jsx";
