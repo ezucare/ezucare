@@ -7,8 +7,8 @@ import NavBar from "./nav/nav.jsx";
 
 const webPage = 
     <>
-      <App />
       <NavBar /> 
+      <App />
     </>
 
 const root = ReactDom.createRoot(document.getElementById("root"));
