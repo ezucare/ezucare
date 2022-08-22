@@ -3,10 +3,12 @@ import ReactDom from 'react-dom/client';
 import './index.css';
 import App from './App';
 import NavBar from "./nav/nav.jsx";
+import Importimage from "./images/bgI.jsx";
 
 
 const webPage = 
     <>
+      <Importimage />
       <NavBar /> 
       <App />
     </>
