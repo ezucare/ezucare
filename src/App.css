@@ -15,13 +15,12 @@
 
 .App-header {
   background-image: url("../public/img/bgI.jpg");
-  height: 100%;
   /* Center and scale the image nicely */
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
   font-size: calc(10px + 2vmin);
-  color: rgb(38, 32, 32);
+  color: rgb(246, 243, 243);
 }
 
 .App-link {
