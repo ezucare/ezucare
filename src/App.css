@@ -16,6 +16,8 @@
 .App-header {
   background-image: url("../public/img/bgI.jpg");
   /* Center and scale the image nicely */
+  width: auto;
+  height: auto;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
