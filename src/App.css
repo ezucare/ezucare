@@ -15,13 +15,13 @@
 
 .App-header {
   background-image: url("../public/img/bgI.jpg");
-  /* min-height: 100vh;
+  min-height: 100vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white; */
+  color: rgb(38, 32, 32);
 }
 
 .App-link {
